@@ -1,0 +1,6 @@
+li {
+    margin:10px;
+}
+li.unavailable{
+    opacity:0.5;
+}
