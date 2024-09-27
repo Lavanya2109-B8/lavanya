@@ -1,3 +1,4 @@
-for(let a=0;a<=10;a++){
-    console.log("a value is="+a);
+for(const a=0;a<5;a++){
+    console.log("inside block of a="+a);
 }
+console.log("outside block a value is="+a);
