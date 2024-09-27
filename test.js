@@ -1,3 +1,10 @@
-let a=20,b=30;
-console.log(a-b);
-console.log(a+b);
+function testFunction(a, b) {
+    return a + b;
+}
+function testFunction1(x,y){
+    return x+y;
+}
+
+module.exports = {
+    testFunction, testFunction1
+}
