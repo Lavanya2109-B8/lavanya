@@ -1,1 +1,1 @@
-console.log("welcome to nodejs")
+console.log("welcome to javascript")
